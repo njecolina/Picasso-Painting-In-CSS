@@ -263,4 +263,9 @@ footer {
   background-color: #333;
   padding: 20px;
   z-index: 5;
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
 }
