@@ -256,5 +256,10 @@ body {
 
 footer {
   text-align: center;
+  justify-content: center;
   color: Ghostwhite;
+  display: flex;
+  flex-direction: column;
+  background-color: #333;
+  padding: 20px;
 }
