@@ -254,6 +254,10 @@ body {
   font-size: 30px;
 }
 
+a {
+  color: Ghostwhite;
+}
+
 footer {
   text-align: center;
   justify-content: center;
